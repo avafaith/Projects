@@ -1,6 +1,6 @@
 # Projects
 
-COding Project:
+Coding Project:
 [Coding Project.docx](https://github.com/avafaith/Projects/files/10053562/Coding.Project.docx)
 
 Code for a database:
