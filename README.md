@@ -9,7 +9,8 @@ Code for a database:
 
 
 Code for a data mart:
-[Uploading BuildDisneyResortsDM.sql…]()
+[BuildDisneyResortsDM.txt](https://github.com/avafaith/Projects/files/10053652/BuildDisneyResortsDM.txt)
+
 
   
   Entire project of data mart/ETL/powerpivot:
